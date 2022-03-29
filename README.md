@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryandavidhartman
 - 👀 I’m interested in Scala, functional programming, and distributed systems
 - 🌱 I’m currently learning Scala 3, and Twitter's open source libraries
-- 📫 How to reach me on [twitter](https://twitter.com/ryan_d_hartman)
+- 📫 You can reach me on [twitter](https://twitter.com/ryan_d_hartman)
 
 <!---
 ryandavidhartman/ryandavidhartman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
